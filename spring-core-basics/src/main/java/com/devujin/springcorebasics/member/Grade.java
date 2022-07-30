@@ -1,2 +1,6 @@
-package com.devujin.springcorebasics.member;public enum Grade {
+package com.devujin.springcorebasics.member;
+
+public enum Grade {
+    BASIC,
+    VIP
 }
